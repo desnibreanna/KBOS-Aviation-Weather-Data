@@ -17,9 +17,9 @@ This repository contains a student project focused on aviation weather patterns 
 
 | Folder | Description |
 |--------|-------------|
-| `data/` | Raw and cleaned weather datasets (CSV format) |
+| `data/` | Raw and cleaned weather datasets (CSV and .XLSX format) |
 | `charts/` | Visualizations created from the data (PNG) |
-| `analysis/` | A short write-up analyzing the trends |
+| `analysis/` | A short summary of the project |
 | `poster/` | Final academic poster for the project |
 
 ---
@@ -40,10 +40,6 @@ This repository contains a student project focused on aviation weather patterns 
 
 ### Winter Wind Rose Under MVFR
 ![Windrose](charts/windrose_WINTER_dgordonander2024_fcat_MVFR_nocalm.png)
-
----
-
-See the full write-up in [`analysis/weather_analysis_summary.pdf`](analysis:/KBOS Project Summary.pdf)
 
 ---
 
