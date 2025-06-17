@@ -47,7 +47,7 @@ This repository contains a student project focused on aviation weather patterns 
 
 Click to view the full-size poster:
 
-![Aviation Weather Poster](poster/AVS3201_KBOS_AIRPORTPROJECT.pdf)
+![Aviation Weather Poster](poster:/AVS3201_KBOS_AIRPORTPROJECT.pdf)
 
 ---
 
